@@ -9,7 +9,7 @@
       "change"
     ],
     "user": false,
-    "version": "4.0.2"
+    "version": "4.0.9"
   },
   {
     "enabled": true,
@@ -21,7 +21,7 @@
       "debug"
     ],
     "user": false,
-    "version": "4.0.2"
+    "version": "4.0.9"
   },
   {
     "enabled": true,
@@ -33,6 +33,30 @@
       "inject"
     ],
     "user": false,
-    "version": "4.0.2"
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-failure",
+    "types": [
+      "ut-assert-failure"
+    ],
+    "user": false,
+    "version": "0.9.3"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-success",
+    "types": [
+      "ut-assert-success"
+    ],
+    "user": false,
+    "version": "0.9.3"
   }
 ]
