@@ -37,50 +37,50 @@
   },
   {
     "enabled": true,
-    "id": "@gorenje/erlang-red-unittest/ut-assert-debug",
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-debug",
     "local": true,
-    "module": "@gorenje/erlang-red-unittest",
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-debug",
     "types": [
       "ut-assert-debug"
     ],
     "user": false,
-    "version": "0.8.8"
+    "version": "0.9.3"
   },
   {
     "enabled": true,
-    "id": "@gorenje/erlang-red-unittest/ut-assert-failure",
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
     "local": true,
-    "module": "@gorenje/erlang-red-unittest",
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-failure",
     "types": [
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.8.8"
+    "version": "0.9.3"
   },
   {
     "enabled": true,
-    "id": "@gorenje/erlang-red-unittest/ut-assert-success",
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
     "local": true,
-    "module": "@gorenje/erlang-red-unittest",
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-success",
     "types": [
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.8.8"
+    "version": "0.9.3"
   },
   {
     "enabled": true,
-    "id": "@gorenje/erlang-red-unittest/ut-assert-values",
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
     "local": true,
-    "module": "@gorenje/erlang-red-unittest",
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-values",
     "types": [
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.8.8"
+    "version": "0.9.3"
   }
 ]
