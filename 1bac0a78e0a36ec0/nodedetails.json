@@ -1,0 +1,14 @@
+[
+  {
+    "enabled": true,
+    "id": "node-red/comment",
+    "local": false,
+    "module": "node-red",
+    "name": "comment",
+    "types": [
+      "comment"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  }
+]
