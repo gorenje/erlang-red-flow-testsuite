@@ -25,18 +25,6 @@
   },
   {
     "enabled": true,
-    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-debug",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "name": "ut-assert-debug",
-    "types": [
-      "ut-assert-debug"
-    ],
-    "user": false,
-    "version": "0.9.3"
-  },
-  {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
