@@ -1,38 +1,38 @@
 [
   {
-    "enabled": true,
     "id": "node-red/change",
-    "local": false,
-    "module": "node-red",
     "name": "change",
     "types": [
       "change"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "node-red/inject",
-    "local": false,
-    "module": "node-red",
     "name": "inject",
     "types": [
       "inject"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-values",
     "types": [
       "ut-assert-values"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.9.3"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.10.0"
   }
 ]
