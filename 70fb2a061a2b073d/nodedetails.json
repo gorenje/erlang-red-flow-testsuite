@@ -1,6 +1,42 @@
 [
   {
     "enabled": true,
+    "id": "node-red/catch",
+    "local": false,
+    "module": "node-red",
+    "name": "catch",
+    "types": [
+      "catch"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/change",
+    "local": false,
+    "module": "node-red",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/debug",
+    "local": false,
+    "module": "node-red",
+    "name": "debug",
+    "types": [
+      "debug"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/node-red-contrib-flowhub/flowhubpull",
     "local": true,
     "module": "@gregoriusrippenstein/node-red-contrib-flowhub",
@@ -55,6 +91,18 @@
     "name": "ut-assert-success",
     "types": [
       "ut-assert-success"
+    ],
+    "user": false,
+    "version": "0.9.3"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
     ],
     "user": false,
     "version": "0.9.3"
