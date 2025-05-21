@@ -1,15 +1,15 @@
 [
   {
     "enabled": true,
-    "id": "node-red/comment",
-    "local": false,
-    "module": "node-red",
-    "name": "comment",
+    "id": "@gregoriusrippenstein/node-red-contrib-flowhub/flowhubpull",
+    "local": true,
+    "module": "@gregoriusrippenstein/node-red-contrib-flowhub",
+    "name": "flowhubpull",
     "types": [
-      "comment"
+      "FlowHubPull"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "0.8.9"
   },
   {
     "enabled": true,
@@ -25,12 +25,12 @@
   },
   {
     "enabled": true,
-    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "name": "ut-assert-failure",
+    "name": "ut-assert-values",
     "types": [
-      "ut-assert-failure"
+      "ut-assert-values"
     ],
     "user": false,
     "version": "0.9.3"
