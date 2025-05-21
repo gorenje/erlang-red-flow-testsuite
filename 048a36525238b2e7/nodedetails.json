@@ -1,6 +1,18 @@
 [
   {
     "enabled": true,
+    "id": "node-red/delay",
+    "local": false,
+    "module": "node-red",
+    "name": "delay",
+    "types": [
+      "delay"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/node-red-contrib-flowhub/flowhubpull",
     "local": true,
     "module": "@gregoriusrippenstein/node-red-contrib-flowhub",
