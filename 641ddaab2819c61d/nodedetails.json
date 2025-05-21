@@ -13,18 +13,6 @@
   },
   {
     "enabled": true,
-    "id": "node-red/inject",
-    "local": false,
-    "module": "node-red",
-    "name": "inject",
-    "types": [
-      "inject"
-    ],
-    "user": false,
-    "version": "4.0.9"
-  },
-  {
-    "enabled": true,
     "id": "node-red/link",
     "local": false,
     "module": "node-red",
@@ -36,17 +24,5 @@
     ],
     "user": false,
     "version": "4.0.9"
-  },
-  {
-    "enabled": true,
-    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "name": "ut-assert-success",
-    "types": [
-      "ut-assert-success"
-    ],
-    "user": false,
-    "version": "0.9.3"
   }
 ]
