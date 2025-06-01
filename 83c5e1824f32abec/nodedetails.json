@@ -73,6 +73,18 @@
   },
   {
     "enabled": true,
+    "id": "node-red/junction",
+    "local": false,
+    "module": "node-red",
+    "name": "junction",
+    "types": [
+      "junction"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "node-red/switch",
     "local": false,
     "module": "node-red",
