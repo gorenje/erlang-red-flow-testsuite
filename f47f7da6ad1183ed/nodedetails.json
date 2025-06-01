@@ -1,0 +1,26 @@
+[
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlsupervisor",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlsupervisor",
+    "types": [
+      "erlsupervisor"
+    ],
+    "user": false,
+    "version": "0.1.3"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/function",
+    "local": false,
+    "module": "node-red",
+    "name": "function",
+    "types": [
+      "function"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  }
+]
