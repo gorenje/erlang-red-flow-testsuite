@@ -1,0 +1,14 @@
+[
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlsupervisor",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlsupervisor",
+    "types": [
+      "erlsupervisor"
+    ],
+    "user": false,
+    "version": "0.1.3"
+  }
+]
