@@ -1,6 +1,18 @@
 [
   {
     "enabled": true,
+    "id": "node-red/delay",
+    "local": false,
+    "module": "node-red",
+    "name": "delay",
+    "types": [
+      "delay"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlmodule",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
@@ -67,6 +79,18 @@
     "name": "ut-assert-success",
     "types": [
       "ut-assert-success"
+    ],
+    "user": false,
+    "version": "0.10.0"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
     ],
     "user": false,
     "version": "0.10.0"
