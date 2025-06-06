@@ -13,6 +13,18 @@
   },
   {
     "enabled": true,
+    "id": "node-red/delay",
+    "local": false,
+    "module": "node-red",
+    "name": "delay",
+    "types": [
+      "delay"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erleventhandler",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
@@ -61,12 +73,12 @@
   },
   {
     "enabled": true,
-    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "name": "ut-assert-success",
+    "name": "ut-assert-values",
     "types": [
-      "ut-assert-success"
+      "ut-assert-values"
     ],
     "user": false,
     "version": "0.10.0"
