@@ -1,6 +1,30 @@
 [
   {
     "enabled": true,
+    "id": "node-red/catch",
+    "local": false,
+    "module": "node-red",
+    "name": "catch",
+    "types": [
+      "catch"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/debug",
+    "local": false,
+    "module": "node-red",
+    "name": "debug",
+    "types": [
+      "debug"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "node-red/function",
     "local": false,
     "module": "node-red",
@@ -25,6 +49,18 @@
   },
   {
     "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-debug",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-debug",
+    "types": [
+      "ut-assert-debug"
+    ],
+    "user": false,
+    "version": "0.10.0"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
@@ -33,6 +69,18 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.9.3"
+    "version": "0.10.0"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-success",
+    "types": [
+      "ut-assert-success"
+    ],
+    "user": false,
+    "version": "0.10.0"
   }
 ]
