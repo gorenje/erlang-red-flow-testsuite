@@ -57,7 +57,7 @@
       "ut-assert-debug"
     ],
     "user": false,
-    "version": "0.10.0"
+    "version": "0.10.3"
   },
   {
     "enabled": true,
@@ -69,7 +69,7 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.10.0"
+    "version": "0.10.3"
   },
   {
     "enabled": true,
@@ -81,6 +81,6 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.10.0"
+    "version": "0.10.3"
   }
 ]
