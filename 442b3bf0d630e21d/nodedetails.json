@@ -9,7 +9,7 @@
       "erlmodule"
     ],
     "user": false,
-    "version": "0.1.5"
+    "version": "0.1.7"
   },
   {
     "enabled": true,
@@ -45,6 +45,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.10.0"
+    "version": "0.10.3"
   }
 ]
