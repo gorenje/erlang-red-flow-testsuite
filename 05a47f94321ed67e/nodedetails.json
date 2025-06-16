@@ -9,7 +9,7 @@
       "erlsupervisor"
     ],
     "user": false,
-    "version": "0.1.3"
+    "version": "0.1.8"
   },
   {
     "enabled": true,
@@ -33,6 +33,6 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.10.0"
+    "version": "0.10.4"
   }
 ]
