@@ -33,7 +33,7 @@
       "erleventhandler"
     ],
     "user": false,
-    "version": "0.1.5"
+    "version": "0.1.8"
   },
   {
     "enabled": true,
@@ -45,7 +45,7 @@
       "erlmodule"
     ],
     "user": false,
-    "version": "0.1.5"
+    "version": "0.1.8"
   },
   {
     "enabled": true,
@@ -81,6 +81,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.10.0"
+    "version": "0.10.4"
   }
 ]
