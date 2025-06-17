@@ -1,18 +1,6 @@
 [
   {
     "enabled": true,
-    "id": "node-red/comment",
-    "local": false,
-    "module": "node-red",
-    "name": "comment",
-    "types": [
-      "comment"
-    ],
-    "user": false,
-    "version": "4.0.9"
-  },
-  {
-    "enabled": true,
     "id": "node-red/debug",
     "local": false,
     "module": "node-red",
@@ -34,17 +22,5 @@
     ],
     "user": false,
     "version": "4.0.9"
-  },
-  {
-    "enabled": true,
-    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "name": "ut-assert-failure",
-    "types": [
-      "ut-assert-failure"
-    ],
-    "user": false,
-    "version": "0.9.3"
   }
 ]
