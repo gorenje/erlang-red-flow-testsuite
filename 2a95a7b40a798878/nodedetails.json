@@ -1,0 +1,40 @@
+[
+  {
+    "id": "node-red/change",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/switch",
+    "name": "switch",
+    "types": [
+      "switch"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/tcpin",
+    "name": "tcpin",
+    "types": [
+      "tcp in",
+      "tcp out",
+      "tcp request"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  }
+]
