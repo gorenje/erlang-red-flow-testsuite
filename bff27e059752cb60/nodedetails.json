@@ -1,0 +1,64 @@
+[
+  {
+    "enabled": true,
+    "id": "node-red/change",
+    "local": false,
+    "module": "node-red",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlmodule",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlmodule",
+    "types": [
+      "erlmodule"
+    ],
+    "user": false,
+    "version": "0.1.8"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlstatemachine",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlstatemachine",
+    "types": [
+      "erlstatemachine"
+    ],
+    "user": false,
+    "version": "0.1.8"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/switch",
+    "local": false,
+    "module": "node-red",
+    "name": "switch",
+    "types": [
+      "switch"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/tcpin",
+    "local": false,
+    "module": "node-red",
+    "name": "tcpin",
+    "types": [
+      "tcp in",
+      "tcp out",
+      "tcp request"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  }
+]
