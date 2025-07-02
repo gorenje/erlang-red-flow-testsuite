@@ -105,7 +105,7 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.10.4"
+    "version": "0.10.6"
   },
   {
     "enabled": true,
@@ -117,6 +117,6 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.10.4"
+    "version": "0.10.6"
   }
 ]
