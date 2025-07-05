@@ -1,0 +1,28 @@
+[
+  {
+    "enabled": true,
+    "id": "node-red/debug",
+    "local": false,
+    "module": "node-red",
+    "name": "debug",
+    "types": [
+      "debug"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/tcpin",
+    "local": false,
+    "module": "node-red",
+    "name": "tcpin",
+    "types": [
+      "tcp in",
+      "tcp out",
+      "tcp request"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  }
+]
