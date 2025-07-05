@@ -1,76 +1,76 @@
 [
   {
-    "enabled": true,
     "id": "node-red/change",
-    "local": false,
-    "module": "node-red",
     "name": "change",
     "types": [
       "change"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlmodule",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
     "name": "erlmodule",
     "types": [
       "erlmodule"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.1.8"
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "version": "6.3.981"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlstatemachine",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
     "name": "erlstatemachine",
     "types": [
       "erlstatemachine"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.1.8"
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "version": "6.3.981"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlsupervisor",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
     "name": "erlsupervisor",
     "types": [
       "erlsupervisor"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.1.8"
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "version": "6.3.981"
   },
   {
-    "enabled": true,
     "id": "node-red/switch",
-    "local": false,
-    "module": "node-red",
     "name": "switch",
     "types": [
       "switch"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "node-red/tcpin",
-    "local": false,
-    "module": "node-red",
     "name": "tcpin",
     "types": [
       "tcp in",
       "tcp out",
       "tcp request"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   }
 ]
