@@ -21,7 +21,7 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
-    "version": "6.3.981"
+    "version": "0.3.0"
   },
   {
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlstatemachine",
@@ -33,7 +33,7 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
-    "version": "6.3.981"
+    "version": "0.3.0"
   },
   {
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlsupervisor",
@@ -45,7 +45,7 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
-    "version": "6.3.981"
+    "version": "0.3.0"
   },
   {
     "id": "node-red/switch",
