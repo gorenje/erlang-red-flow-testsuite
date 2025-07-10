@@ -1,98 +1,98 @@
 [
   {
-    "enabled": true,
     "id": "node-red/change",
-    "local": false,
-    "module": "node-red",
     "name": "change",
     "types": [
       "change"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "node-red/delay",
-    "local": false,
-    "module": "node-red",
     "name": "delay",
     "types": [
       "delay"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erleventhandler",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
     "name": "erleventhandler",
     "types": [
       "erleventhandler"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.1.8"
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "version": "0.3.1"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlmodule",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
     "name": "erlmodule",
     "types": [
       "erlmodule"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.1.8"
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "version": "0.3.1"
   },
   {
-    "enabled": true,
     "id": "node-red/inject",
-    "local": false,
-    "module": "node-red",
     "name": "inject",
     "types": [
       "inject"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "node-red/switch",
-    "local": false,
-    "module": "node-red",
     "name": "switch",
     "types": [
       "switch"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-failure",
     "types": [
       "ut-assert-failure"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.10.4"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.10.7"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-success",
     "types": [
       "ut-assert-success"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.10.4"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.10.7"
   }
 ]
