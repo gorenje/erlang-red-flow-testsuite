@@ -45,7 +45,7 @@
       "erlmodule"
     ],
     "user": false,
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   {
     "enabled": true,
@@ -57,7 +57,7 @@
       "erlstatemachine"
     ],
     "user": false,
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   {
     "enabled": true,
