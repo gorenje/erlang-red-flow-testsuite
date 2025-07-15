@@ -37,6 +37,18 @@
   },
   {
     "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlgenserver",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlgenserver",
+    "types": [
+      "erlgenserver"
+    ],
+    "user": false,
+    "version": "0.3.3"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlmodule",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
@@ -45,7 +57,7 @@
       "erlmodule"
     ],
     "user": false,
-    "version": "0.3.2"
+    "version": "0.3.3"
   },
   {
     "enabled": true,
@@ -57,7 +69,7 @@
       "erlstatemachine"
     ],
     "user": false,
-    "version": "0.3.2"
+    "version": "0.3.3"
   },
   {
     "enabled": true,
