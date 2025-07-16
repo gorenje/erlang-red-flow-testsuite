@@ -1,12 +1,12 @@
 [
   {
     "enabled": true,
-    "id": "node-red/change",
+    "id": "node-red/debug",
     "local": false,
     "module": "node-red",
-    "name": "change",
+    "name": "debug",
     "types": [
-      "change"
+      "debug"
     ],
     "user": false,
     "version": "4.0.9"
@@ -19,6 +19,18 @@
     "name": "inject",
     "types": [
       "inject"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/switch",
+    "local": false,
+    "module": "node-red",
+    "name": "switch",
+    "types": [
+      "switch"
     ],
     "user": false,
     "version": "4.0.9"
@@ -47,7 +59,7 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.10.5"
+    "version": "0.10.7"
   },
   {
     "enabled": true,
@@ -59,6 +71,18 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.10.5"
+    "version": "0.10.7"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "user": false,
+    "version": "0.10.7"
   }
 ]
