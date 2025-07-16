@@ -1,0 +1,74 @@
+[
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/node-red-contrib-introspection/clientcode",
+    "local": true,
+    "module": "@gregoriusrippenstein/node-red-contrib-introspection",
+    "name": "clientcode",
+    "types": [
+      "ClientCode"
+    ],
+    "user": false,
+    "version": "0.10.3"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/inject",
+    "local": false,
+    "module": "node-red",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-failure",
+    "types": [
+      "ut-assert-failure"
+    ],
+    "user": false,
+    "version": "0.10.7"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-status",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-status",
+    "types": [
+      "ut-assert-status"
+    ],
+    "user": false,
+    "version": "0.10.7"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-success",
+    "types": [
+      "ut-assert-success"
+    ],
+    "user": false,
+    "version": "0.10.7"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "user": false,
+    "version": "0.10.7"
+  }
+]
