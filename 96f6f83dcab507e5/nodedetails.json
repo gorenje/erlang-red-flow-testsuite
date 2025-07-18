@@ -13,6 +13,18 @@
   },
   {
     "enabled": true,
+    "id": "node-red/switch",
+    "local": false,
+    "module": "node-red",
+    "name": "switch",
+    "types": [
+      "switch"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "node-red/tcpin",
     "local": false,
     "module": "node-red",
@@ -35,6 +47,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.10.5"
+    "version": "0.10.7"
   }
 ]
