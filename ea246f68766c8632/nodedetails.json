@@ -46,5 +46,19 @@
     ],
     "user": false,
     "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/link",
+    "local": false,
+    "module": "node-red",
+    "name": "link",
+    "types": [
+      "link in",
+      "link out",
+      "link call"
+    ],
+    "user": false,
+    "version": "4.0.9"
   }
 ]
