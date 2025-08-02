@@ -1,0 +1,98 @@
+[
+  {
+    "enabled": true,
+    "id": "node-red/catch",
+    "local": false,
+    "module": "node-red",
+    "name": "catch",
+    "types": [
+      "catch"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/change",
+    "local": false,
+    "module": "node-red",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/inject",
+    "local": false,
+    "module": "node-red",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/junction",
+    "local": false,
+    "module": "node-red",
+    "name": "junction",
+    "types": [
+      "junction"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/switch",
+    "local": false,
+    "module": "node-red",
+    "name": "switch",
+    "types": [
+      "switch"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-failure",
+    "types": [
+      "ut-assert-failure"
+    ],
+    "user": false,
+    "version": "0.10.7"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-success",
+    "types": [
+      "ut-assert-success"
+    ],
+    "user": false,
+    "version": "0.10.7"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "user": false,
+    "version": "0.10.7"
+  }
+]
