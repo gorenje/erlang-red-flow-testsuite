@@ -1,0 +1,38 @@
+[
+  {
+    "id": "node-red-contrib-binary/binary",
+    "name": "binary",
+    "types": [
+      "binary"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "node-red-contrib-binary",
+    "version": "0.1.3"
+  },
+  {
+    "id": "node-red/inject",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.10.7"
+  }
+]
