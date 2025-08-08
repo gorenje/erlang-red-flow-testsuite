@@ -1,0 +1,99 @@
+[
+  {
+    "id": "node-red/change",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/debug",
+    "name": "debug",
+    "types": [
+      "debug"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/delay",
+    "name": "delay",
+    "types": [
+      "delay"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/inject",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/split",
+    "name": "split",
+    "types": [
+      "split",
+      "join"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/switch",
+    "name": "switch",
+    "types": [
+      "switch"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
+    "name": "ut-assert-failure",
+    "types": [
+      "ut-assert-failure"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.10.7"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
+    "name": "ut-assert-success",
+    "types": [
+      "ut-assert-success"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.10.7"
+  }
+]
