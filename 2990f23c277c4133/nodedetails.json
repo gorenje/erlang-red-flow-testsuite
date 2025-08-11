@@ -1,0 +1,75 @@
+[
+  {
+    "enabled": true,
+    "id": "node-red-contrib-binary/binary",
+    "local": true,
+    "module": "node-red-contrib-binary",
+    "name": "binary",
+    "types": [
+      "binary"
+    ],
+    "user": false,
+    "version": "0.1.3"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/change",
+    "local": false,
+    "module": "node-red",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/httpin",
+    "local": false,
+    "module": "node-red",
+    "name": "httpin",
+    "types": [
+      "http in",
+      "http response"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/sort",
+    "local": false,
+    "module": "node-red",
+    "name": "sort",
+    "types": [
+      "sort"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/switch",
+    "local": false,
+    "module": "node-red",
+    "name": "switch",
+    "types": [
+      "switch"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/template",
+    "local": false,
+    "module": "node-red",
+    "name": "template",
+    "types": [
+      "template"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  }
+]
