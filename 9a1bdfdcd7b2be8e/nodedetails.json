@@ -1,62 +1,74 @@
 [
   {
+    "enabled": true,
     "id": "node-red/batch",
+    "local": false,
+    "module": "node-red",
     "name": "batch",
     "types": [
       "batch"
     ],
-    "enabled": true,
-    "local": false,
     "user": false,
-    "module": "node-red",
-    "version": "4.0.5"
+    "version": "4.0.9"
   },
   {
+    "enabled": true,
     "id": "node-red/change",
+    "local": false,
+    "module": "node-red",
     "name": "change",
     "types": [
       "change"
     ],
-    "enabled": true,
-    "local": false,
     "user": false,
-    "module": "node-red",
-    "version": "4.0.5"
+    "version": "4.0.9"
   },
   {
+    "enabled": true,
     "id": "node-red/debug",
+    "local": false,
+    "module": "node-red",
     "name": "debug",
     "types": [
       "debug"
     ],
-    "enabled": true,
-    "local": false,
     "user": false,
-    "module": "node-red",
-    "version": "4.0.5"
+    "version": "4.0.9"
   },
   {
+    "enabled": true,
     "id": "node-red/inject",
+    "local": false,
+    "module": "node-red",
     "name": "inject",
     "types": [
       "inject"
     ],
-    "enabled": true,
-    "local": false,
     "user": false,
-    "module": "node-red",
-    "version": "4.0.5"
+    "version": "4.0.9"
   },
   {
+    "enabled": true,
     "id": "node-red/switch",
+    "local": false,
+    "module": "node-red",
     "name": "switch",
     "types": [
       "switch"
     ],
-    "enabled": true,
-    "local": false,
     "user": false,
-    "module": "node-red",
-    "version": "4.0.5"
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-success",
+    "types": [
+      "ut-assert-success"
+    ],
+    "user": false,
+    "version": "0.10.7"
   }
 ]
