@@ -33,7 +33,7 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.9.3"
+    "version": "0.11.1"
   },
   {
     "enabled": true,
@@ -45,6 +45,6 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.9.3"
+    "version": "0.11.1"
   }
 ]
