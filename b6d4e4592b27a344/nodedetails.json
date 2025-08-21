@@ -13,18 +13,6 @@
   },
   {
     "enabled": true,
-    "id": "node-red/debug",
-    "local": false,
-    "module": "node-red",
-    "name": "debug",
-    "types": [
-      "debug"
-    ],
-    "user": false,
-    "version": "4.0.9"
-  },
-  {
-    "enabled": true,
     "id": "node-red/delay",
     "local": false,
     "module": "node-red",
@@ -71,7 +59,7 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.10.0"
+    "version": "0.11.1"
   },
   {
     "enabled": true,
@@ -83,7 +71,7 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.10.0"
+    "version": "0.11.1"
   },
   {
     "enabled": true,
@@ -95,6 +83,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.10.0"
+    "version": "0.11.1"
   }
 ]
