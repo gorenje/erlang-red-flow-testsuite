@@ -13,18 +13,6 @@
   },
   {
     "enabled": true,
-    "id": "node-red/debug",
-    "local": false,
-    "module": "node-red",
-    "name": "debug",
-    "types": [
-      "debug"
-    ],
-    "user": false,
-    "version": "4.0.9"
-  },
-  {
-    "enabled": true,
     "id": "node-red/inject",
     "local": false,
     "module": "node-red",
@@ -45,6 +33,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.9.3"
+    "version": "0.11.1"
   }
 ]
