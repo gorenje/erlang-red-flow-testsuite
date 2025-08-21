@@ -1,18 +1,6 @@
 [
   {
     "enabled": true,
-    "id": "node-red/debug",
-    "local": false,
-    "module": "node-red",
-    "name": "debug",
-    "types": [
-      "debug"
-    ],
-    "user": false,
-    "version": "4.0.9"
-  },
-  {
-    "enabled": true,
     "id": "node-red/delay",
     "local": false,
     "module": "node-red",
@@ -33,7 +21,7 @@
       "erlmodule"
     ],
     "user": false,
-    "version": "0.3.1"
+    "version": "0.3.3"
   },
   {
     "enabled": true,
@@ -45,7 +33,7 @@
       "erlstatemachine"
     ],
     "user": false,
-    "version": "0.3.1"
+    "version": "0.3.3"
   },
   {
     "enabled": true,
@@ -57,7 +45,7 @@
       "erlsupervisor"
     ],
     "user": false,
-    "version": "0.3.1"
+    "version": "0.3.3"
   },
   {
     "enabled": true,
@@ -117,7 +105,7 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.10.7"
+    "version": "0.11.1"
   },
   {
     "enabled": true,
@@ -129,7 +117,7 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.10.7"
+    "version": "0.11.1"
   },
   {
     "enabled": true,
@@ -141,6 +129,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.10.7"
+    "version": "0.11.1"
   }
 ]
