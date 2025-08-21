@@ -75,15 +75,15 @@
   },
   {
     "enabled": true,
-    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-status",
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "name": "ut-assert-status",
+    "name": "ut-assert-success",
     "types": [
-      "ut-assert-status"
+      "ut-assert-success"
     ],
     "user": false,
-    "version": "0.10.7"
+    "version": "0.11.1"
   },
   {
     "enabled": true,
@@ -95,6 +95,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.10.7"
+    "version": "0.11.1"
   }
 ]
