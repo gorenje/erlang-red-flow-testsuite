@@ -1,18 +1,6 @@
 [
   {
     "enabled": true,
-    "id": "node-red/debug",
-    "local": false,
-    "module": "node-red",
-    "name": "debug",
-    "types": [
-      "debug"
-    ],
-    "user": false,
-    "version": "4.0.9"
-  },
-  {
-    "enabled": true,
     "id": "node-red/delay",
     "local": false,
     "module": "node-red",
@@ -33,7 +21,7 @@
       "erleventhandler"
     ],
     "user": false,
-    "version": "0.1.8"
+    "version": "0.3.3"
   },
   {
     "enabled": true,
@@ -45,7 +33,7 @@
       "erlmodule"
     ],
     "user": false,
-    "version": "0.1.8"
+    "version": "0.3.3"
   },
   {
     "enabled": true,
@@ -81,6 +69,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.10.4"
+    "version": "0.11.1"
   }
 ]
