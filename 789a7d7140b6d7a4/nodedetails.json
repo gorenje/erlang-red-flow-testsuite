@@ -37,6 +37,18 @@
   },
   {
     "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-supervisor-node/erlmodule",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-supervisor-node",
+    "name": "erlmodule",
+    "types": [
+      "erlmodule"
+    ],
+    "user": false,
+    "version": "0.3.3"
+  },
+  {
+    "enabled": true,
     "id": "node-red/exec",
     "local": false,
     "module": "node-red",
@@ -107,5 +119,17 @@
     ],
     "user": false,
     "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "user": false,
+    "version": "0.11.1"
   }
 ]
