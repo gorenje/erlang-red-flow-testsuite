@@ -97,6 +97,18 @@
   },
   {
     "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-failure",
+    "types": [
+      "ut-assert-failure"
+    ],
+    "user": false,
+    "version": "0.11.1"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
