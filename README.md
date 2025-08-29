@@ -24,6 +24,13 @@ How to add the token to the FlowHub nodes:
 
 ![img](.images/flowhub-token-tab.png)
 
+
+Then open the pull tab to refresh the test suite list:
+
+![img](.images/update-pull-tab.png)
+
+Double clicking on any test flow will import that flow.
+
 This token also works in the [browser-only serverless](https://deadred.flowhub.org) version of Node-RED, for those who do not wish to install Node-RED.
 
 ## Git Clone
