@@ -1,8 +1,8 @@
-# Erlang-RED Flow Testsuite
+# Erlang-Red Flow Testsuite
 
 A collection of test flows to ensure node compatibility with original Node-RED nodes.
 
-These flows are designed to be executed using the orignal [Node-RED](https://nodered.org) and the Erlang version - [Erlang-RED](https://github.com/gorenje/erlang-red).
+These flows are designed to be executed using the orignal [Node-RED](https://nodered.org) and the Erlang version - [Erlang-Red](https://github.com/gorenje/erlang-red).
 
 They provide a definition of what functionality is expected from the existing core nodes of Node-RED.
 
@@ -10,11 +10,11 @@ These flows utilise the [erlang-red-unittest](https://github.com/gorenje/erlang-
 
 ## work in progress for a proof of concept
 
-The flows are hardwired into the [Erlang-RED project](https://github.com/gorenje/erlang-red/tree/main/priv/testflows) but will be kept in sync with their copies here.
+The flows are hardwired into the [Erlang-Red project](https://github.com/gorenje/erlang-red/tree/main/priv/testflows) but will be kept in sync with their copies here.
 
 ## FlowHub
 
-Direct access to this repository from within Node-RED or Erlang-RED is possible via the [FlowHub](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub) nodes and using this read-only token:
+Direct access to this repository from within Node-RED or Erlang-Red is possible via the [FlowHub](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub) nodes and using this read-only token:
 
 ```
 fhb_WyIreTFVdjA5aG96bW9lVW1aeG41SE1RPT0iLCI4WTM3ODR1dzhRVWpRanBNU0lQVEM2OG5PRVZwRFZpQm84M0dTT3VRTVdEcmh6N0VyUTk2a1JXVUZpdWZkUnZLS0pTb0NBWmRnT25oa3g3VHlRcUd3ZUM2SmU0RTNZOUJwbjN2alRqc2dMNi9tekswUkRPYzlaNjBEZ0RoUzBtbnZMeFFUSWZIV3oxczZMYTRYTXA4UVFldmsxM0hGWlcwS2RrVEEzaVB4ZjBSTW4xdTF0UXZjYjIyRDI2ZEpTQUI0Q3dDdzd1NXdzZlB3dWd0N1VKT3RmUGkzakNDRzcwaVd6dzdFdkZrNGlyTFl2S2Z6cThMIl0
