@@ -1,5 +1,17 @@
 [
   {
+    "id": "@gregoriusrippenstein/node-red-contrib-introspection/clientcode",
+    "name": "clientcode",
+    "types": [
+      "ClientCode"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/node-red-contrib-introspection",
+    "version": "0.10.3"
+  },
+  {
     "id": "node-red/inject",
     "name": "inject",
     "types": [
