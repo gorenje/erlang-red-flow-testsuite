@@ -1,6 +1,18 @@
 [
   {
     "enabled": true,
+    "id": "node-red/change",
+    "local": false,
+    "module": "node-red",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/node-red-contrib-introspection/clientcode",
     "local": true,
     "module": "@gregoriusrippenstein/node-red-contrib-introspection",
