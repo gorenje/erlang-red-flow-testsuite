@@ -1,5 +1,17 @@
 [
   {
+    "id": "node-red/catch",
+    "name": "catch",
+    "types": [
+      "catch"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
     "id": "node-red/change",
     "name": "change",
     "types": [
@@ -34,6 +46,30 @@
     "user": false,
     "module": "node-red",
     "version": "4.0.5"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
+    "name": "ut-assert-failure",
+    "types": [
+      "ut-assert-failure"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.11.4"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
+    "name": "ut-assert-success",
+    "types": [
+      "ut-assert-success"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.11.4"
   },
   {
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
