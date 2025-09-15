@@ -1,86 +1,74 @@
 [
   {
-    "enabled": true,
     "id": "node-red/catch",
-    "local": false,
-    "module": "node-red",
     "name": "catch",
     "types": [
       "catch"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "node-red/change",
-    "local": false,
-    "module": "node-red",
     "name": "change",
     "types": [
       "change"
     ],
-    "user": false,
-    "version": "4.0.9"
-  },
-  {
     "enabled": true,
-    "id": "@gregoriusrippenstein/node-red-contrib-introspection/clientcode",
-    "local": true,
-    "module": "@gregoriusrippenstein/node-red-contrib-introspection",
-    "name": "clientcode",
-    "types": [
-      "ClientCode"
-    ],
-    "user": false,
-    "version": "0.10.3"
-  },
-  {
-    "enabled": true,
-    "id": "node-red/inject",
     "local": false,
+    "user": false,
     "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/inject",
     "name": "inject",
     "types": [
       "inject"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "4.0.5"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-failure",
     "types": [
       "ut-assert-failure"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.11.1"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.11.5"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-success",
     "types": [
       "ut-assert-success"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.11.1"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.11.5"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-values",
     "types": [
       "ut-assert-values"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.11.1"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.11.5"
   }
 ]
