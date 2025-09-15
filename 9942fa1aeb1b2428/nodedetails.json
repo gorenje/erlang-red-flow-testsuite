@@ -1,5 +1,17 @@
 [
   {
+    "id": "node-red/catch",
+    "name": "catch",
+    "types": [
+      "catch"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
     "id": "node-red/inject",
     "name": "inject",
     "types": [
