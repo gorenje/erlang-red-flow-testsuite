@@ -1,6 +1,18 @@
 [
   {
     "enabled": true,
+    "id": "node-red/change",
+    "local": false,
+    "module": "node-red",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "node-red/debug",
     "local": false,
     "module": "node-red",
@@ -49,6 +61,20 @@
   },
   {
     "enabled": true,
+    "id": "node-red/link",
+    "local": false,
+    "module": "node-red",
+    "name": "link",
+    "types": [
+      "link in",
+      "link out",
+      "link call"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
     "id": "@gregoriusrippenstein/node-red-contrib-flow2uml/mermaid-flowchart",
     "local": true,
     "module": "@gregoriusrippenstein/node-red-contrib-flow2uml",
@@ -58,5 +84,41 @@
     ],
     "user": false,
     "version": "0.3.1"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/status",
+    "local": false,
+    "module": "node-red",
+    "name": "status",
+    "types": [
+      "status"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/switch",
+    "local": false,
+    "module": "node-red",
+    "name": "switch",
+    "types": [
+      "switch"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-success",
+    "types": [
+      "ut-assert-success"
+    ],
+    "user": false,
+    "version": "0.12.0"
   }
 ]
