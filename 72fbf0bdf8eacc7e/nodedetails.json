@@ -120,5 +120,17 @@
     ],
     "user": false,
     "version": "0.12.0"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "user": false,
+    "version": "0.12.0"
   }
 ]
