@@ -1,0 +1,75 @@
+[
+  {
+    "id": "node-red/httpin",
+    "name": "httpin",
+    "types": [
+      "http in",
+      "http response"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/httprequest",
+    "name": "httprequest",
+    "types": [
+      "http request"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/inject",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/template",
+    "name": "template",
+    "types": [
+      "template"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
+    "name": "ut-assert-failure",
+    "types": [
+      "ut-assert-failure"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.12.0"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.12.0"
+  }
+]
