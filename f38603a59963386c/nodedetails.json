@@ -1,0 +1,75 @@
+[
+  {
+    "enabled": true,
+    "id": "node-red/httpin",
+    "local": false,
+    "module": "node-red",
+    "name": "httpin",
+    "types": [
+      "http in",
+      "http response"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/httprequest",
+    "local": false,
+    "module": "node-red",
+    "name": "httprequest",
+    "types": [
+      "http request"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/inject",
+    "local": false,
+    "module": "node-red",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/JSON",
+    "local": false,
+    "module": "node-red",
+    "name": "JSON",
+    "types": [
+      "json"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/template",
+    "local": false,
+    "module": "node-red",
+    "name": "template",
+    "types": [
+      "template"
+    ],
+    "user": false,
+    "version": "4.0.9"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "user": false,
+    "version": "0.12.0"
+  }
+]
