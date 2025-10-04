@@ -1,0 +1,39 @@
+[
+  {
+    "id": "node-red/inject",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "node-red/split",
+    "name": "split",
+    "types": [
+      "split",
+      "join"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.5"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
+    "name": "ut-assert-failure",
+    "types": [
+      "ut-assert-failure"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.12.0"
+  }
+]
