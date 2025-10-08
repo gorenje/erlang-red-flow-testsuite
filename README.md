@@ -12,9 +12,15 @@ These flows utilise the [erlang-red-unittest](https://github.com/gorenje/erlang-
 
 The flows are hardwired into the [Erlang-Red project](https://github.com/gorenje/erlang-red/tree/main/priv/testflows) but will be kept in sync with their copies here.
 
-## FlowHub
+## Access via FlowHub.org
 
-Direct access to this repository from within Node-RED or Erlang-Red is possible via the [FlowHub](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub) nodes and using this read-only token:
+Direct access to this repository is possible:
+
+- from within Node-RED or Erlang-Red via the [FlowHub](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub) nodes
+- [Erlang-Red online instance](https://ered.fly.dev/erlang-red)
+- [Browser-Red serverless Node-RED instance](https://deadred.openmindmap.org)
+
+Using the following read-only token:
 
 ```
 fhb_WyIreTFVdjA5aG96bW9lVW1aeG41SE1RPT0iLCI4WTM3ODR1dzhRVWpRanBNU0lQVEM2OG5PRVZwRFZpQm84M0dTT3VRTVdEcmh6N0VyUTk2a1JXVUZpdWZkUnZLS0pTb0NBWmRnT25oa3g3VHlRcUd3ZUM2SmU0RTNZOUJwbjN2alRqc2dMNi9tekswUkRPYzlaNjBEZ0RoUzBtbnZMeFFUSWZIV3oxczZMYTRYTXA4UVFldmsxM0hGWlcwS2RrVEEzaVB4ZjBSTW4xdTF0UXZjYjIyRDI2ZEpTQUI0Q3dDdzd1NXdzZlB3dWd0N1VKT3RmUGkzakNDRzcwaVd6dzdFdkZrNGlyTFl2S2Z6cThMIl0
