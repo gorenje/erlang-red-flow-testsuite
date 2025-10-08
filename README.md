@@ -12,7 +12,7 @@ These flows utilise the [erlang-red-unittest](https://github.com/gorenje/erlang-
 
 The flows are hardwired into the [Erlang-Red project](https://github.com/gorenje/erlang-red/tree/main/priv/testflows) but will be kept in sync with their copies here.
 
-## FlowHub
+## Access via FlowHub.org
 
 Direct access to this repository is possible:
 
