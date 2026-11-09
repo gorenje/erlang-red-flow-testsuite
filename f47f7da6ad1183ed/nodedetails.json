@@ -9,7 +9,7 @@
       "erlsupervisor"
     ],
     "user": false,
-    "version": "0.1.8"
+    "version": "0.4.5"
   },
   {
     "enabled": true,
@@ -21,6 +21,6 @@
       "function"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   }
 ]
