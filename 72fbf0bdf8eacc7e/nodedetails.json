@@ -9,7 +9,7 @@
       "change"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -21,7 +21,7 @@
       "debug"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -33,7 +33,7 @@
       "erlmodule"
     ],
     "user": false,
-    "version": "0.3.6"
+    "version": "0.4.5"
   },
   {
     "enabled": true,
@@ -45,7 +45,7 @@
       "erlstatemachine"
     ],
     "user": false,
-    "version": "0.3.6"
+    "version": "0.4.5"
   },
   {
     "enabled": true,
@@ -57,7 +57,7 @@
       "inject"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -71,7 +71,7 @@
       "link call"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -83,7 +83,7 @@
       "mermaid-flowchart"
     ],
     "user": false,
-    "version": "0.3.1"
+    "version": "0.5.1"
   },
   {
     "enabled": true,
@@ -95,7 +95,7 @@
       "status"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -107,7 +107,7 @@
       "switch"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -119,7 +119,7 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.12.0"
+    "version": "0.20.2"
   },
   {
     "enabled": true,
@@ -131,7 +131,7 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.12.0"
+    "version": "0.20.2"
   },
   {
     "enabled": true,
@@ -143,6 +143,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.12.0"
+    "version": "0.20.2"
   }
 ]
