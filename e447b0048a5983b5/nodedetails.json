@@ -9,7 +9,7 @@
       "change"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -21,7 +21,7 @@
       "debug"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -33,7 +33,7 @@
       "delay"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -45,7 +45,7 @@
       "erlsupervisor"
     ],
     "user": false,
-    "version": "0.3.3"
+    "version": "0.4.5"
   },
   {
     "enabled": true,
@@ -57,7 +57,7 @@
       "function"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -69,7 +69,7 @@
       "inject"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -81,7 +81,20 @@
       "junction"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/split",
+    "local": false,
+    "module": "node-red",
+    "name": "split",
+    "types": [
+      "split",
+      "join"
+    ],
+    "user": false,
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -93,7 +106,7 @@
       "status"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -105,7 +118,7 @@
       "switch"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -117,7 +130,7 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.11.1"
+    "version": "0.20.2"
   },
   {
     "enabled": true,
@@ -129,6 +142,6 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.11.1"
+    "version": "0.20.2"
   }
 ]
