@@ -9,7 +9,7 @@
       "change"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -21,7 +21,7 @@
       "ClientCode"
     ],
     "user": false,
-    "version": "0.10.3"
+    "version": "0.16.1"
   },
   {
     "enabled": true,
@@ -33,6 +33,6 @@
       "inject"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   }
 ]
