@@ -1,0 +1,50 @@
+[
+  {
+    "id": "node-red/debug",
+    "name": "debug",
+    "types": [
+      "debug"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "5.0.0"
+  },
+  {
+    "id": "node-red/function",
+    "name": "function",
+    "types": [
+      "function"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "5.0.0"
+  },
+  {
+    "id": "node-red/inject",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "5.0.0"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-debug",
+    "name": "ut-assert-debug",
+    "types": [
+      "ut-assert-debug"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "0.20.2"
+  }
+]
