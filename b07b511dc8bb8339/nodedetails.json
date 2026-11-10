@@ -1,26 +1,51 @@
 [
   {
+    "id": "node-red/file",
+    "name": "file",
+    "types": [
+      "file",
+      "file in"
+    ],
     "enabled": true,
-    "id": "node-red/inject",
     "local": false,
+    "user": false,
     "module": "node-red",
+    "version": "5.0.0"
+  },
+  {
+    "id": "node-red/inject",
     "name": "inject",
     "types": [
       "inject"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-debug",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-debug",
     "types": [
       "ut-assert-debug"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.9.3"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "1.5.848"
+  },
+  {
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "1.5.848"
   }
 ]
