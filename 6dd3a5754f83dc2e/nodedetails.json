@@ -1,50 +1,50 @@
 [
   {
-    "enabled": true,
     "id": "node-red/change",
-    "local": false,
-    "module": "node-red",
     "name": "change",
     "types": [
       "change"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "node-red/function",
-    "local": false,
-    "module": "node-red",
     "name": "function",
     "types": [
       "function"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "node-red/inject",
-    "local": false,
-    "module": "node-red",
     "name": "inject",
     "types": [
       "inject"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "node-red/switch",
-    "local": false,
-    "module": "node-red",
     "name": "switch",
     "types": [
       "switch"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "5.0.0"
   }
 ]
