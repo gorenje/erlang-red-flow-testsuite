@@ -1,62 +1,75 @@
 [
   {
-    "enabled": true,
     "id": "node-red/complete",
-    "local": false,
-    "module": "node-red",
     "name": "complete",
     "types": [
       "complete"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "node-red/debug",
-    "local": false,
-    "module": "node-red",
     "name": "debug",
     "types": [
       "debug"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "node-red/inject",
-    "local": false,
-    "module": "node-red",
     "name": "inject",
     "types": [
       "inject"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "4.0.9"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
+    "id": "node-red/split",
+    "name": "split",
+    "types": [
+      "split",
+      "join"
+    ],
     "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "5.0.0"
+  },
+  {
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-failure",
     "types": [
       "ut-assert-failure"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.11.1"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "9.7.107"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-success",
     "types": [
       "ut-assert-success"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.11.1"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "9.7.107"
   }
 ]
