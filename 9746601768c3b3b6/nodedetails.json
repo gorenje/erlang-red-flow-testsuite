@@ -25,18 +25,6 @@
   },
   {
     "enabled": true,
-    "id": "node-red/switch",
-    "local": false,
-    "module": "node-red",
-    "name": "switch",
-    "types": [
-      "switch"
-    ],
-    "user": false,
-    "version": "5.0.8"
-  },
-  {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
     "local": true,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
