@@ -9,7 +9,7 @@
     "local": false,
     "user": false,
     "module": "node-red",
-    "version": "4.0.5"
+    "version": "5.0.0"
   },
   {
     "id": "node-red/inject",
@@ -21,7 +21,7 @@
     "local": false,
     "user": false,
     "module": "node-red",
-    "version": "4.0.5"
+    "version": "5.0.0"
   },
   {
     "id": "node-red/template",
@@ -33,7 +33,7 @@
     "local": false,
     "user": false,
     "module": "node-red",
-    "version": "4.0.5"
+    "version": "5.0.0"
   },
   {
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
@@ -45,6 +45,6 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "version": "0.9.5"
+    "version": "8.1.234"
   }
 ]
