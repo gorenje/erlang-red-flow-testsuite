@@ -69,7 +69,7 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "version": "8.1.234"
+    "version": "8.7.792"
   },
   {
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
@@ -81,6 +81,6 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "version": "8.1.234"
+    "version": "8.7.792"
   }
 ]
