@@ -9,7 +9,7 @@
       "delay"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -21,7 +21,7 @@
       "FlowHubPull"
     ],
     "user": false,
-    "version": "0.8.9"
+    "version": "1.2.3"
   },
   {
     "enabled": true,
@@ -33,7 +33,21 @@
       "inject"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
+  },
+  {
+    "enabled": true,
+    "id": "node-red/link",
+    "local": false,
+    "module": "node-red",
+    "name": "link",
+    "types": [
+      "link in",
+      "link out",
+      "link call"
+    ],
+    "user": false,
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -45,6 +59,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.9.3"
+    "version": "0.21.1"
   }
 ]
