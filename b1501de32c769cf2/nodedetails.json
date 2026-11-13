@@ -9,7 +9,7 @@
       "catch"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -21,7 +21,7 @@
       "inject"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -33,7 +33,7 @@
       "switch"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -45,7 +45,7 @@
       "ut-assert-debug"
     ],
     "user": false,
-    "version": "0.11.1"
+    "version": "0.21.1"
   },
   {
     "enabled": true,
@@ -57,7 +57,7 @@
       "ut-assert-failure"
     ],
     "user": false,
-    "version": "0.11.1"
+    "version": "0.21.1"
   },
   {
     "enabled": true,
@@ -69,6 +69,18 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.11.1"
+    "version": "0.21.1"
+  },
+  {
+    "enabled": true,
+    "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
+    "local": true,
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "name": "ut-assert-values",
+    "types": [
+      "ut-assert-values"
+    ],
+    "user": false,
+    "version": "0.21.1"
   }
 ]
