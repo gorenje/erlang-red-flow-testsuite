@@ -9,7 +9,7 @@
       "inject"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -21,7 +21,7 @@
       "markdown"
     ],
     "user": false,
-    "version": "0.1.4"
+    "version": "0.6.3"
   },
   {
     "enabled": true,
@@ -33,7 +33,7 @@
       "template"
     ],
     "user": false,
-    "version": "4.0.9"
+    "version": "5.0.8"
   },
   {
     "enabled": true,
@@ -45,6 +45,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.11.1"
+    "version": "0.21.1"
   }
 ]
