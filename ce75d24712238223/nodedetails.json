@@ -1,50 +1,62 @@
 [
   {
+    "id": "node-red/change",
+    "name": "change",
+    "types": [
+      "change"
+    ],
     "enabled": true,
-    "id": "node-red/inject",
     "local": false,
+    "user": false,
     "module": "node-red",
+    "version": "5.0.0"
+  },
+  {
+    "id": "node-red/inject",
     "name": "inject",
     "types": [
       "inject"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "5.0.8"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "node-red-node-markdown/markdown",
-    "local": true,
-    "module": "node-red-node-markdown",
     "name": "markdown",
     "types": [
       "markdown"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.6.3"
+    "module": "node-red-node-markdown",
+    "version": "0.6.2"
   },
   {
-    "enabled": true,
     "id": "node-red/template",
-    "local": false,
-    "module": "node-red",
     "name": "template",
     "types": [
       "template"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "5.0.8"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-values",
     "types": [
       "ut-assert-values"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.21.1"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "7.0.552"
   }
 ]
