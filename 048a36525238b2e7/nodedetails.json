@@ -1,64 +1,64 @@
 [
   {
-    "enabled": true,
     "id": "node-red/delay",
-    "local": false,
-    "module": "node-red",
     "name": "delay",
     "types": [
       "delay"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "5.0.8"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/node-red-contrib-flowhub/flowhubpull",
-    "local": true,
-    "module": "@gregoriusrippenstein/node-red-contrib-flowhub",
     "name": "flowhubpull",
     "types": [
       "FlowHubPull"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "1.2.3"
+    "module": "@gregoriusrippenstein/node-red-contrib-flowhub",
+    "version": "1.2.4"
   },
   {
-    "enabled": true,
     "id": "node-red/inject",
-    "local": false,
-    "module": "node-red",
     "name": "inject",
     "types": [
       "inject"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "5.0.8"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "node-red/link",
-    "local": false,
-    "module": "node-red",
     "name": "link",
     "types": [
       "link in",
       "link out",
       "link call"
     ],
+    "enabled": true,
+    "local": false,
     "user": false,
-    "version": "5.0.8"
+    "module": "node-red",
+    "version": "5.0.0"
   },
   {
-    "enabled": true,
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
-    "local": true,
-    "module": "@gregoriusrippenstein/erlang-red-unittest",
     "name": "ut-assert-values",
     "types": [
       "ut-assert-values"
     ],
+    "enabled": true,
+    "local": true,
     "user": false,
-    "version": "0.21.1"
+    "module": "@gregoriusrippenstein/erlang-red-unittest",
+    "version": "5.4.738"
   }
 ]
