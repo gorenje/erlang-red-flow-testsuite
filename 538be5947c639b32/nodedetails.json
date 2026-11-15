@@ -34,6 +34,6 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "version": "1.5.848"
+    "version": "7.9.765"
   }
 ]
