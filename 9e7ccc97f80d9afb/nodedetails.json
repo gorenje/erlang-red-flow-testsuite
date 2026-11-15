@@ -34,7 +34,7 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "version": "1.5.848"
+    "version": "7.9.765"
   },
   {
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-failure",
@@ -46,7 +46,7 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "version": "1.5.848"
+    "version": "7.9.765"
   },
   {
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-success",
@@ -58,7 +58,7 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "version": "1.5.848"
+    "version": "7.9.765"
   },
   {
     "id": "@gregoriusrippenstein/erlang-red-unittest/ut-assert-values",
@@ -70,6 +70,6 @@
     "local": true,
     "user": false,
     "module": "@gregoriusrippenstein/erlang-red-unittest",
-    "version": "1.5.848"
+    "version": "7.9.765"
   }
 ]
