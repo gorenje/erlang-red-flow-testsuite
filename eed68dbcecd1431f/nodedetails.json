@@ -82,7 +82,7 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.21.5"
+    "version": "0.21.7"
   },
   {
     "enabled": true,
@@ -94,6 +94,6 @@
       "ut-config"
     ],
     "user": false,
-    "version": "0.21.5"
+    "version": "0.21.7"
   }
 ]
