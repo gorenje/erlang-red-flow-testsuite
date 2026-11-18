@@ -58,7 +58,7 @@
       "ut-assert-success"
     ],
     "user": false,
-    "version": "0.21.1"
+    "version": "0.21.7"
   },
   {
     "enabled": true,
@@ -70,6 +70,6 @@
       "ut-assert-values"
     ],
     "user": false,
-    "version": "0.21.1"
+    "version": "0.21.7"
   }
 ]
